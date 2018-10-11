@@ -6,14 +6,25 @@
 + [Octicons](https://octicons.github.com/) - icon library from GitHub
 + [Material Icons](https://material.io/tools/icons/) - icon library from Google
 
-## Tools
+## Web-based Tools
 + [SVGO SVG Optimizer](https://jakearchibald.github.io/svgomg/) - web tool for SVG optimization
 + [IcoMoon](https://icomoon.io/) - SVG icon libraries and icon font / SVGdef generator
-+ [ImageOptim](https://imageoptim.com) - desktop app for losslessly compressing images
 + [Favicon Checker](http://www.colinkeany.com/favicon-checker/) - compare your favicons in all major web browsers
+
+## Software
++ [Atom](https://atom.io/) - my code editor of choice
++ [Sketch](https://www.sketchapp.com/) - the best UI design tool
++ [Abstract](https://www.goabstract.com/) - version control for Sketch files
 
 ## Sketch Plugins
 + [Sketch Runner](https://sketchrunner.com/) - Sketch shortcuts
 + [Sketch Measure](https://github.com/utom/sketch-measure) - create spec for developers and teammates
 + [SVGO Compressor](https://github.com/BohemianCoding/svgo-compressor) - compress SVG assets using SVGO on export
 + [Symbol Organizer](https://github.com/sonburn/symbol-organizer) - organize your symbols page alphabetically
++ [ImageOptim](https://imageoptim.com) - desktop app for losslessly compressing images
+
+## Atom Packages
++ [Prettier](https://atom.io/packages/prettier-atom) - auto-format code on save with eslint integration
++ [Less Than Slash](https://atom.io/packages/less-than-slash) - adds automatic closing HTML tags when slash `</` is typed
++ [Vue Language](https://atom.io/packages/language-vue) - Vue component syntax support
++ [SASS Language](https://atom.io/packages/language-sass) - SASS syntax support
