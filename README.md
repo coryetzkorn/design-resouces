@@ -28,3 +28,6 @@
 + [Less Than Slash](https://atom.io/packages/less-than-slash) - adds automatic closing HTML tags when slash `</` is typed
 + [Vue Language](https://atom.io/packages/language-vue) - Vue component syntax support
 + [SASS Language](https://atom.io/packages/language-sass) - SASS syntax support
+
+## Chrome Extensions
++ [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - The best web screenshot tool I've found
